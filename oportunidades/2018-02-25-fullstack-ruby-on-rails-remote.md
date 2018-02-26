@@ -3,18 +3,18 @@ Ruby on Rails FullStack PL/SR - 100% Remoto
 
 **Status:** _Em aberto_
 
-Buscamos um desenvolvedor **Ruby on Rails FullStack** com perfil empreendedor, 
-que tenha disposição para encarar os desafios diários de uma startup em ritmo 
-de desenvolvimento acelerado.
+Buscamos um desenvolvedor **Ruby on Rails FullStack** com perfil empreendedor,
+que tenha gosto por desafios e interesse em participar de projetos com grandes
+propósitos e visão.
 
 Precisamos que essa pessoa atue conosco diretamente na manutenção e evolução 
 de nossa plataforma de solicitação de diaristas.
 
-Atualmente, nossa plataforma permite que as pessoas interessadas em contratar
- uma diarista façam apenas pedidos avulsos, sem meios para facilitar o 
- gerenciamento desses pedidos ou realizar novas solicitações.
+Atualmente, nossa plataforma permite que empregadores que precisam de limpeza
+residencial consigam uma diarista para realizar uma diária, sem meios para 
+facilitar o gerenciamento desses pedidos ou realizar novas solicitações.
 
-Em resumo, nosso próximo desafio é construir uma área onde essas pessoas 
+Agora, nosso próximo desafio é construir uma área onde essas pessoas 
 poderão se cadastrar/autenticar, gerenciar seus dados de perfil, fazer novos pedidos de diaristas aproveitando os dados previamente cadastrados, consultar e alterar dados de diárias futuras e visualizar dados históricos de diárias já realizadas.
 
 **Importante:** Essas novas funcionalidades precisam ser construídas partindo 
@@ -69,6 +69,10 @@ do sistema.
   Não nos importamos que a pessoa tenha um outro trabalho em horário regular, 
   mas precisamos que tenha compromisso com nosso desenvolvimento e necessidade
   de promover avanços na solução.
+  
+  Valorizamos a sinceridade, a perspicácia para negócios, o pensamento crítico
+  sobre processos e sistemas, a autonomia, a liderança, o empreendedorismo  e
+  o foco em resultados.
 
 **Experiência necessária:** Pleno/Sênior
 
