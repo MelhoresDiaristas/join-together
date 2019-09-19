@@ -1,7 +1,7 @@
 Ruby on Rails FullStack PL/SR - 100% Remoto
 ---
 
-**Status:** _Em aberto_
+**Status:** _Fechada_
 
 Buscamos um desenvolvedor **Ruby on Rails FullStack** com perfil empreendedor,
 que tenha gosto por desafios e interesse em participar de projetos com grandes
@@ -98,4 +98,4 @@ Envie um e-mail para [contato@melhoresdiaristas.com](mailto:contato@melhoresdiar
  - Endereço do seu perfil do GitHub, caso possua
  - Quantidade de horas que você tem disponíveis para dedicar ao projeto 
  
-[www.melhoresdiaristas.com](https://www.melhoresdiaristas.com)
+[www.melhoresdiaristas.com](https://www.melhoresdiaristas.com.br)
